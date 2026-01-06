@@ -1,0 +1,32 @@
+
+body {
+    background: #fff7f9;
+}
+h1, h2 {
+    color: #c2185b;
+    text-align: center;
+    margin: 20px 0;
+}
+.btn-success {
+    background-color: #66bb6a;
+    border: none;
+}
+.btn-success:hover {
+    background-color: #43a047;
+    }
+.btn-warning {
+    background-color: #fbc02d;
+    border: none;
+}
+.btn-danger {
+    background-color: #e53935;
+    border: none;
+}
+    .card {
+    border-radius: 12px;
+    border: 2px solid #f8bbd0;
+}
+    .table thead {
+    background-color: #f48fb1;
+    color: white;
+}
